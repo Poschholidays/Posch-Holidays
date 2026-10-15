@@ -1,0 +1,6 @@
+{
+  "name": "POSCH HOLIDAY QUEST",
+  "description": "Play. Explore. Unlock Your Next Holiday. Interactive travel adventure mobile game for Posch Holidays & Resorts with Muse mascot, 3 playable mini-games, digital passport stamps, rewards, and real holiday packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
